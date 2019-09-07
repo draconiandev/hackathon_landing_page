@@ -1,6 +1,6 @@
 module.exports = {
-  siteTitle: 'Hacakthon', // <title>
-  manifestName: 'Hacakthon',
+  siteTitle: 'Brillio Hackathon', // <title>
+  manifestName: 'Brillio Hackathon',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
@@ -9,9 +9,9 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-eventually/`, // This path is subpath of your hosting https://domain/portfolio
   // social
-  heading: 'Hacakthon',
+  heading: 'Brillio Hackathon',
   subHeading:
-    "Inagural hackathon of Brillio by Move Team. Keep watching this space to know more",
+    "Inagural hackathon of Brillio by Move Team. Keep watching this space to know more.",
   socialLinks: [
     {
       icon: 'fa-github',
