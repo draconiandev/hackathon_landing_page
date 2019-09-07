@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5344becf-bbfc-49a1-a80d-eed01a43cef4/deploy-status)](https://app.netlify.com/sites/brillio-hackathon/deploys)
