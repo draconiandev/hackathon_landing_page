@@ -42,7 +42,7 @@ export class EmailForm extends Component {
         name="signup"
         netlify-honeypot="bot-field"
         data-netlify="true"
-        hidden
+        netlify
       >
         <input
           type="email"
@@ -53,6 +53,7 @@ export class EmailForm extends Component {
           onChange={this.handleChange}
           required
         />
+        <input type="hidden" name="form-name" value="signup"/>
         <input type="hidden" name="bot-field" />
         <input type="submit" value="Sign Up" />
         <span className={`${feedback ? 'visible success' : ''} message`}>
